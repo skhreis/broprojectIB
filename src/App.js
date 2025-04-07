@@ -1,24 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <center><div>
+        <div>Selection Game</div>
+        <img src="https://cas.stthomas.edu/_media-library/_images/history/1920x1080/stthomas-history-time.jpg" height='300px' width='300px'/><br /> 
+        <a href='/selection'><button>Start Game</button></a>
+      </div>
+      </center>
+    </>
   );
 }
 
