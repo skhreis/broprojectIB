@@ -1,0 +1,16 @@
+.title {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: xx-large;
+  font-weight: 600;
+  padding-top: 100px;
+}
+
+.subtitle {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  font-weight: 600;
+}
+
+.padding {
+  padding-top: 100px;
+}
